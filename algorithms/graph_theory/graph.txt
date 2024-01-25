@@ -1,0 +1,40 @@
+Graph Theory - Introduction 
+
+Where we can find the Graph Theory in real life problems ? 
+
+- Maps 
+- Networking 
+
+Graph it contain a Nodes and this nodes are connected with Edges.
+
+Types of Edges :   
+    - Indirected Edge --- 
+    - Directed Edge   ---> 
+    - Multiples Edges 
+
+Fully connected node : edge = (n * (n - 1)) / 2 
+
+Spre Graph : edge = n - 1
+
+Dense Graph = fully connected 
+
+
+Special Type of graph : Tree 
+
+it only have one path between 2 nodes . 
+edge = n - 1
+
+
+Graph Represantation: 
+
+Boolean Represantation:
+
+1- Adjacency Matrix Represantation AMR[Nodes][Nodes] O(n2)
+
+2- Adjacency List Represantation   ALR A->B->C[x]
+
+Wheighted Represantation :
+
+it can be Negative Wheighted edges Represantation
+
+There is Stander's graph and other note standers    
